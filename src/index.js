@@ -2,6 +2,7 @@
  * commons-reg
  * 
  * git token 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
+ * 
 */
 const regObj = {
     name:/^([\u4e00-\u9fa5]|\w){0,7}/img,
